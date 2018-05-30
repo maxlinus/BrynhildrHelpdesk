@@ -1,0 +1,7 @@
+[0109/192523:ERROR:process_reader_win.cc(173)] ResumeThread: Параметр задан неверно. (0x57)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0109/192523:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)

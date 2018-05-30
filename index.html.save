@@ -21,7 +21,7 @@
 				<!-- Header -->
 					<header id="header">
 						<div class="logo">
-							<span class="fa fa-smile-o fa-5x"></span>
+							<span class="icon fa-diamond"></span>
 						</div>
 						<div class="content">
 							<div class="inner">
@@ -48,18 +48,14 @@
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>.</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
 							</article>
 
 						<!-- Work -->
 							<article id="work">
 								<h2 class="major">Список изменений</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>0.08 .<br />
-								+обновлен Brynhildr<br />
-								+обновлен kitty<br />
-								+добавлено отключение UAC.<br /><br />
-								0.06 .<br />
+								<p>0.06 .<br />
 								+исправлена проблема подключения к нескольким компьютерам.<br />
 								+добавлена функция авто-реконнекта, на стороне клиента.<br />
 								РАБОТАЕТ c Viewer v0.06<br /><br />
@@ -67,8 +63,8 @@
 <span class="image main"><img src="images/pic04.jpg" alt="" /></span>
 								+добавлен пункт "переданные файлы". Открывает папку где лежат переданные файлы.<br />
 								РАБОТАЕТ С Viewer v0.03 </p>
-								<p></p>
-							</article>
+								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero..</p>
+z							</article>
 
 						<!-- About -->
 							<article id="about">
@@ -98,9 +94,6 @@
 								<p>Сборка основана на <a href="http://blog.x-row.net/?p=2455">Brynhildr</a> .</p>
 <p>Чтобы увидеть его возможности <a href="http://blog.x-row.net/download/?file=brynhildr&amp;ver=223">скачайте его</a> и запустите на разных компьютерах в одной локальной сети.</p>
 <p>&nbsp;</p>
-									
-									
-										<div class="youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/csEDjlFt_To" frameborder="0" allowfullscreen></iframe></div>
 									
 								<section>
 									<h4>Преимущества сборки:</h4>
@@ -180,17 +173,11 @@
 <p style="text-align: center;"><strong>MAIL: <a href="mailto:it404976@yandex.ru">it404976@yandex.ru</a></strong></p>
 <p style="text-align: center;"><strong>ICQ: 271931852</strong></p>
 								
-					
-
 
 							</article>
 
 					</div>
 
-
-					
-					
-					
 				<!-- Footer -->
 					<footer id="footer">
 						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
