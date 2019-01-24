@@ -20,9 +20,7 @@ id и пароль всегда новые, если не служба
 видео https://youtu.be/csEDjlFt_To
 
 0.21
-добавте ваши данные в файл 
-
-repeaterData.au3
+добавте ваши данные в файл repeaterData.au3
 
 
 0.15
