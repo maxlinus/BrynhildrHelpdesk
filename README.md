@@ -4,8 +4,9 @@
 https://sourceforge.net/projects/brynhildr-helpdesk/
 
 
-[img]https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015.jpg/182/137/1[/img]
-[img]https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015-2.jpg/182/137/1[/img]
+https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015.jpg/182/137/1
+
+https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015-2.jpg/182/137/1
 
 
 работает через ssh tunnel
