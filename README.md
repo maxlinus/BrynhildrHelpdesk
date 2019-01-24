@@ -18,6 +18,10 @@ id и пароль всегда новые, если не служба
 
 видео https://youtu.be/csEDjlFt_To
 
+0.21
+
+
+0.15
 для работы вам понадобится ssh server с белым Ip
 настроить kitty.exe (kitty.exe portable)
 заменить на свой файлы в 
