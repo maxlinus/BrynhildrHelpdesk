@@ -3,10 +3,11 @@
 (Brynhildr + kitty + SSH + autoit)
 https://sourceforge.net/projects/brynhildr-helpdesk/
 
+![alt text](pic/1.jpg)
 
-https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015.jpg/182/137/1
+![alt text](pic/3.png)
 
-https://a.fsdn.com/con/app/proj/brynhildr-helpdesk/screenshots/015-2.jpg/182/137/1
+![alt text](pic/2.png)
 
 
 работает через ssh tunnel
