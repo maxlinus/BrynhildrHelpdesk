@@ -51,3 +51,9 @@ id и пароль всегда новые, если не служба
 для защиты ssh сервера можно использовать fail2ban и [url=https://unixforum.org/index.php?s=&showtopic=142362&view=findpost&p=1303865]вот такую хитрость[/url]
 
 З.Ы. многое взято из chunkvnc, делалось для себя для оказания удалённой техподдержки. 
+
+kitty http://www.9bis.net/kitty/
+
+Brynhildr http://blog.x-row.net/
+
+chunkvnc http://forum.ultravnc.info/viewforum.php?f=50
