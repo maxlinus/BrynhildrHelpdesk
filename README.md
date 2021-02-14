@@ -5,7 +5,6 @@ https://sourceforge.net/projects/brynhildr-helpdesk/
 
 ![alt text](pic/1.jpg)
 
-![alt text](pic/3.png)
 
 ![alt text](pic/2.png)
 
