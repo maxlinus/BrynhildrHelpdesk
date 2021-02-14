@@ -14,9 +14,23 @@ https://sourceforge.net/projects/brynhildr-helpdesk/
 v0.25
 Добавлена возможность проброса любого порта до клиента и дальше.(ssh tunnel) Это удобно если из вне нету доступа к серверу например rdp , можно пробросить порт прямо до него минуя nat.
 
+![alt text](https://github.com/maxlinus/BrynhildrHelpdesk/blob/master/images/pic05.jpg)
 
+для такого проброса нужно указать какой порт будет снаружи и какой внутри сети
 
-работает через ssh tunnel
+![alt text](https://github.com/maxlinus/BrynhildrHelpdesk/blob/master/images/pic06.jpg)
+
+для подключения по нужному протоколу используйте клиента со СВОЕГО компьютера , нужно указать ip ретранслятора и порт для подключения.
+
+![alt text](https://github.com/maxlinus/BrynhildrHelpdesk/blob/master/images/pic07.jpg)
+
+пробрасывать можно любые порты TCP.
+
+после закрытия helpdesk Убедитесь что порты снаружи закрыты.
+
+-----------------
+
+Работает через ssh tunnel
 полностью portable
 поддержка до 4 серверов (можно и больше конечно)
 умеет работать как служба
